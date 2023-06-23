@@ -15,7 +15,7 @@
 	"packs": [{
 		"name": "items-by-gwill",
 		"label": "D&D 5e Items with Icons by Gwillewyn",
-		"path": "./packs/items.db",
+		"path": "./packs/items-by-gwill.db",
 		"entity": "Item",
 		"type": "Item",
 		"system": "dnd5e",
@@ -24,7 +24,40 @@
 			"PLAYER": "OBSERVER",
 			"ASSISTANT": "OWNER"
 		}
-	}],
+	},
+	{
+		"name": "items-books",
+		"label": "D&D 5e Books with Icons by Gwillewyn",
+		"path": "./packs/items-books.db",
+		"entity": "Item",
+		"type": "Item",
+		"system": "dnd5e"
+	},
+	{
+		"name": "items-potions",
+		"label": "D&D 5e Potions, Poisons, Bottles, and Vials with Icons by Gwillewyn",
+		"path": "./packs/items-potions.db",
+		"entity": "Item",
+		"type": "Item",
+		"system": "dnd5e"
+	},
+	{
+		"name": "items-magic",
+		"label": "D&D 5e Magic Items with Icons by Gwillewyn",
+		"path": "./packs/items-magic.db",
+		"entity": "Item",
+		"type": "Item",
+		"system": "dnd5e"
+	},
+	{
+		"name": "starting-equipment",
+		"label": "D&D Starting Equipment with Icons by Gwillewyn",
+		"path": "./packs/starting-equipment.db",
+		"entity": "Item",
+		"type": "Item",
+		"system": "dnd5e"
+	}
+],
 	"url": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill",
 	"manifest": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/module.json",
 	"download": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/dnd-item-compendium-by-gwill.zip",
