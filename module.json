@@ -1,7 +1,7 @@
 {
 	"id": "dnd-item-compendium-by-gwill",
 	"title": "D&D Item Compendium by Gwillewyn",
-	"description": "Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
+	"description": "Extensive item compendium of equipment, magic items, and treasure. Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
 		"name": "Gwillewyn",
 		"email": "gwillewyn@gmail.com",
@@ -13,51 +13,45 @@
 		"verified": "11"
 	},
 	"packs": [{
-		"name": "items-by-gwill",
-		"label": "D&D 5e Items with Icons by Gwillewyn",
-		"path": "./packs/items-by-gwill.db",
-		"entity": "Item",
-		"type": "Item",
-		"system": "dnd5e",
-		"flags": {},
-		"ownership": {
-			"PLAYER": "OBSERVER",
-			"ASSISTANT": "OWNER"
+			"name": "items-by-gwill",
+			"label": "Items: Mundane Items (icons by Gwill)",
+			"path": "./packs/items-by-gwill.db",
+			"entity": "Item",
+			"type": "Item",
+			"system": "dnd5e",
+			"flags": {},
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			}
+		},
+		{
+			"name": "items-magic-by-gwill",
+			"label": "Items: Magic Items (icons by Gwill)",
+			"path": "./packs/items-magic-by-gwill.db",
+			"entity": "Item",
+			"type": "Item",
+			"system": "dnd5e",
+			"flags": {},
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			}
+		},
+		{
+			"name": "items-treasure-by-gwill",
+			"label": "Items: Treasure and Loot (icons by Gwill)",
+			"path": "./packs/items-treasure-by-gwill.db",
+			"entity": "Item",
+			"type": "Item",
+			"system": "dnd5e",
+			"flags": {},
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			}
 		}
-	},
-	{
-		"name": "items-books",
-		"label": "D&D 5e Books with Icons by Gwillewyn",
-		"path": "./packs/items-books.db",
-		"entity": "Item",
-		"type": "Item",
-		"system": "dnd5e"
-	},
-	{
-		"name": "items-potions",
-		"label": "D&D 5e Potions, Poisons, Bottles, and Vials with Icons by Gwillewyn",
-		"path": "./packs/items-potions.db",
-		"entity": "Item",
-		"type": "Item",
-		"system": "dnd5e"
-	},
-	{
-		"name": "items-magic",
-		"label": "D&D 5e Magic Items with Icons by Gwillewyn",
-		"path": "./packs/items-magic.db",
-		"entity": "Item",
-		"type": "Item",
-		"system": "dnd5e"
-	},
-	{
-		"name": "starting-equipment",
-		"label": "D&D Starting Equipment with Icons by Gwillewyn",
-		"path": "./packs/starting-equipment.db",
-		"entity": "Item",
-		"type": "Item",
-		"system": "dnd5e"
-	}
-],
+	],
 	"url": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill",
 	"manifest": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/module.json",
 	"download": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/dnd-item-compendium-by-gwill.zip",
