@@ -18,7 +18,7 @@ Vector images are small in file size and *infinitely* scalable.  The same pictur
 ### Items
 
 ![Weapons](/Examples/Items_Weapons.webp)   
-![Adventuring Gear](/Items_Adventuring_Gear.webp)   
+![Adventuring Gear](/Examples/Items_Adventuring_Gear.webp)   
 ![Potions and Poisons](/Examples/Items_Potions_Poisons_Bottles_and_Vials.webp)   
 ![Books and Scrolls](/Examples/Items_Books_and_Scrolls.webp)   
 ![Spell Components](/Examples/Items_Spell_Components_and_Spellcasting_foci.webp)   
