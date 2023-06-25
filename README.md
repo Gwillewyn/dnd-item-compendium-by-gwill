@@ -33,6 +33,12 @@ All with original, individual, icons by Gwillewyn, and neatly organised in subfo
 Vector images are small in file size and *infinitely* scalable.  The same picture can be used at 25x25px and 2500x2500px with no loss of quality.  The largest file in the whole pack is 385 KB, while the average is less than 25 KB.   
 I have somewhat pushed the limits of what can be done with SVG-files to achieve effects and details while still keeping file sizes small and browser compatible.
 
+## Screenshots  
+
+![Screenshot of Compendiums](/Examples/Screenshot.webp)
+
+![Screenshot of choosing artwork for item from character sheet](/Examples/Screenshot_Artwork.webp)
+
 ## Artwork Examples
 
 **Potion of Longevity**  
