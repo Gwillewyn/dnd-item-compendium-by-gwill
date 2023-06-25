@@ -7,7 +7,7 @@
 		"email": "gwillewyn@gmail.com",
 		"discord": "Gwillewyn#8953"
 	}],
-	"version": "0.0.1a",
+	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11"
@@ -53,8 +53,8 @@
 		}
 	],
 	"url": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill",
-	"manifest": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/module.json",
-	"download": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/0.0.1a/dnd-item-compendium-by-gwill.zip",
+	"manifest": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/1.0.0/module.json",
+	"download": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill/releases/download/1.0.0/dnd-item-compendium-by-gwill.zip",
 	"license": "https://creativecommons.org/licenses/by/3.0/",
 	"media": [{
 			"type": "icon",
@@ -64,7 +64,7 @@
 		{
 			"type": "screenshot",
 			"url": "https://raw.githubusercontent.com/Gwillewyn/dnd-item-compendium-by-gwill/main/Examples/Screenshot.webp",
-			"caption": "<Choosing icon in character sheet.>"
+			"caption": "<Compendiums and character sheet>"
 		},
 		{
 			"type": "cover",
