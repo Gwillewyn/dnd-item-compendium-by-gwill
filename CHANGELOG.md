@@ -1,14 +1,13 @@
-
 # Change Log
 
+## [1.0.0] - 2023-06-25
 
-## [0.0.1a] - 2023-06-22
- 
 ### Added
-All files from previous version.
+ - Three Compendiums of items from the SRD and other sources
+ - 880+ icons
    
 ### Changed
-No major changes.
+Nothing Yet.
  
 ### Fixed
-Nothing yet.
+All files from my icon library (dnd-item-icons-by-gwill) renamed to fit with naming conventions and common courtesy.  
