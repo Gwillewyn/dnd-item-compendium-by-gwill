@@ -1,5 +1,6 @@
 {
 	"id": "dnd-item-compendium-by-gwill",
+	"name": "dnd-item-compendium-by-gwill",
 	"title": "D&D Item Compendium by Gwillewyn",
 	"description": "Extensive item compendium of equipment, magic items, and treasure. Full colour icons of D&D items in svg-format based on icons and aesthetics from game-icons.net",
 	"authors": [{
@@ -8,9 +9,12 @@
 		"discord": "Gwillewyn#8953"
 	}],
 	"version": "1.0.0",
+	
+	"minimumCoreVersion": 9,
+	"compatibleCoreVersion": "11.306",
 	"compatibility": {
-		"minimum": "11",
-		"verified": "11"
+		"minimum": "9",
+		"verified": "11.306"
 	},
 	"packs": [{
 			"name": "items-by-gwill",
