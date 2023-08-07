@@ -1,5 +1,7 @@
 # D&D 5e Item Compendium
 
+The *compendium* requires Foundry version 11, but the package can be installed on older versions for the artwork alone.
+
 This module contains three item compendiums:  
 - **Mundane Items**
     - Adventuring Gear
