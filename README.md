@@ -25,7 +25,6 @@ This module contains three item compendiums:
     - Misc.
 - **Treasure and Loot**
     -  Gemstones
-    -  Jewellery
     -  Misc.
 
 All with original, individual, icons by Gwillewyn, and neatly organised in subfolders.  
@@ -64,13 +63,13 @@ Filesize: `25.5 KB`
 ## Content of the Compendiums
 
 - Items from the SRD with full description (mostly copied from the in-game compendium)
-- Items from the DMG and PHB *outside* the SRD have price and weight information, but no description or details (I will see about updating these when I find out exactly what the new OGL allows me to do)
-- Spell components will have information about what spell they are needed for
+- Spell components with information about what spell they are needed for
 - Some extra treasure and loot
+- Non-SRD items are unfortunately not in the compendiums, but there is plenty of artwork for you do add your own
 
 ## Content of the Artwork Folders
 
-- Most mundane items from Dungeon Master's Guide (DMG) and Player Handbook (PHB)
+- Mundane items from Dungeon Master's Guide (DMG) and Player Handbook (PHB)
     - Adventuring Gear
     - Ammunition
     - Armour
@@ -92,7 +91,7 @@ Filesize: `25.5 KB`
 Certain items that I find it unreasonable to literally carry around with you, such as livestock and vehicles, are represented by a deed or receipt to keep in your inventory.
 Some items come in more than one design for a bit of variety.
 
-## Additional items include:
+## Additional artworks include:
 
 - A multitude of generic bottles and vials with various coloured content
 - Unspecific generic gemstones of a variety of colours
