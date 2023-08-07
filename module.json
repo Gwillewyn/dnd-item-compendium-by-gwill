@@ -10,7 +10,7 @@
 	}],
 	"version": "1.0.1",
 
-	"minimumCoreVersion": 9,
+	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "11.306",
 	"compatibility": {
 		"minimum": "9",
@@ -22,12 +22,7 @@
 			"path": "./packs/items-by-gwill.db",
 			"entity": "Item",
 			"type": "Item",
-			"system": "dnd5e",
-			"flags": {},
-			"ownership": {
-				"PLAYER": "OBSERVER",
-				"ASSISTANT": "OWNER"
-			}
+			"system": "dnd5e"
 		},
 		{
 			"name": "items-magic-by-gwill",
@@ -35,12 +30,7 @@
 			"path": "./packs/items-magic-by-gwill.db",
 			"entity": "Item",
 			"type": "Item",
-			"system": "dnd5e",
-			"flags": {},
-			"ownership": {
-				"PLAYER": "OBSERVER",
-				"ASSISTANT": "OWNER"
-			}
+			"system": "dnd5e"
 		},
 		{
 			"name": "items-treasure-by-gwill",
@@ -48,12 +38,7 @@
 			"path": "./packs/items-treasure-by-gwill.db",
 			"entity": "Item",
 			"type": "Item",
-			"system": "dnd5e",
-			"flags": {},
-			"ownership": {
-				"PLAYER": "OBSERVER",
-				"ASSISTANT": "OWNER"
-			}
+			"system": "dnd5e"
 		}
 	],
 	"url": "https://github.com/Gwillewyn/dnd-item-compendium-by-gwill",
